@@ -1,2 +1,15 @@
-# simple-3d-cube
-The simple three js project with 3D cube
+# React + Vite
+
+This is simple three.js project.
+
+<!-- steps -->
+
+-> npm install three
+-> npm install @types/three @react-three/fiber
+-> npm install @react-three/drei
+
+<!-- run the project -->
+
+<!-- npm -->
+
+npm run dev
